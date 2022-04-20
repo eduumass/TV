@@ -11,7 +11,7 @@ https://latinclub.xyz/latinch/PDzA79JqKX/204
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSiC1x4Okpvt6GkIwrTFX189b_r2q_BnMnEQgobjAx6WDAyhfL50T5ecS&s=10" group-title="PERU", Latina HD
 https://www.latinclub.xyz/live_entertainment/pe/51567.php?stream.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="PERU", ATV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/1200px-ATV_%28Peru%29_-_2018_logo.png" group-title="PERU", ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/ATV%2B_Logo_2011.png" group-title="PERU", ATV+
