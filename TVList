@@ -11,6 +11,10 @@ https://latinclub.xyz/latinch/PDzA79JqKX/204
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSiC1x4Okpvt6GkIwrTFX189b_r2q_BnMnEQgobjAx6WDAyhfL50T5ecS&s=10" group-title="PERU", Latina HD
 https://www.latinclub.xyz/live_entertainment/pe/51567.php?stream.m3u8
 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSiC1x4Okpvt6GkIwrTFX189b_r2q_BnMnEQgobjAx6WDAyhfL50T5ecS&s=10" group-title="PERU", Latina SD
+http://177.53.152.186:8000/play/a019/index.m3u8
+
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/1200px-ATV_%28Peru%29_-_2018_logo.png" group-title="PERU", ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 
@@ -19,7 +23,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png"group-title="PERU", Panamericana
 http://cdnhd.iblups.com/hls/ptv2.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU", TV Peru
 http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
@@ -55,7 +58,7 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
 #EXTINF:-1, tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online.png" group-title="PERU", MegaTV
-https://video.servidor.stream:3180/live/megatvlive.m3u8
+https://cp.serviaudio.com:1936/megatv/megatv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online.png" group-title="PERU", MegaTV
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
