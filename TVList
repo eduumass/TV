@@ -304,8 +304,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w53831157
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0w1oZsmlRJDvNxh35ktgpPew9gH0Mg0rfog&usqp=CAU" group-title="NOTICIAS", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0w1oZsmlRJDvNxh35ktgpPew9gH0Mg0rfog&usqp=CAU" group-title="NOTICIAS", Hispan TV
-https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/c/c0/Emblema_de_TeleSur.png" group-title="NOTICIAS", teleSUR
 https://cdnesmain.telesur.ultrabase.net:443/mbliveMain/480p/chunklist.m3u8
@@ -316,23 +314,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="Latinos", Pequeradio
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Latinos", CubaVision (Cuba)
-http://190.122.96.187:8888/http/010
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="Latinos", Unicanal (Paraguay)
-http://45.55.127.106/live/unicanal_src.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2cprJRx.png" group-title="Argentina", Telemax (Argentina)
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Argentina", ChacraTV
-http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="Colombia", TVAgro
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="España", TVG
 http://europa-crtvg.flumotion.com/playlist.m3u8
@@ -350,16 +333,12 @@ http://cultural-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=320&height=320" group-title="Music", m2o
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=320&height=320" group-title="Music", Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320" group-title="Music", La Mega Mundial
-https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latinos", Teleritmo
